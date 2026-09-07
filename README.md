@@ -73,3 +73,19 @@ Analyzed the number of unique customers over time.
 - Investigate low-performing states and identify opportunities for growth.
 - Monitor monthly sales trends to improve sales planning.
 - Track profitability alongside sales to ensure that high sales translate into sustainable profit.
+
+## Project Files
+
+### Complete Excel Analysis
+
+Download the complete Excel analysis workbook, including all analysis sheets, pivot tables, charts, and dashboard:
+
+[📊 Download Excel Capstone Analysis](./Excel_Capstone_Analysis.xlsx)
+
+### Raw Dataset
+
+[📁 Download Raw Dataset](./Excel_Capstone_Raw_Data.xlsx)
+
+### Dashboard Preview
+
+![Excel Capstone Dashboard](./Excel%20Capstone%20Dashboard.png)
